@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Project Title
+# Assembly Space Shooter
 
 An arcade space shooter build using 68k assembly
 
